@@ -2,10 +2,8 @@
 
 
 ![MasterHead](https://wallpapercave.com/uwp/uwp1611517.gif)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Angelinne&show_icons=true&theme=radical)
 
 - 🌱 I’m currently learning **CS50 and C language**
-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
