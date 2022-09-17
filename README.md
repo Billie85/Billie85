@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Angelinne</h1>
 
 
-![MasterHead](https://media2.giphy.com/media/l0ErHrV2OAU42gLle/giphy.gif?cid=790b7611eeb6121111282c055ab5b3a449f6a4ebed8f6614&rid=giphy.gif&ct=g)
+![MasterHead](https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e478hz3hr52bqou3qgom7ddf35j3pgdiixknqaccre8&rid=giphy.gif&ct=g)
 
 - 🌱 I’m currently learning **CS50 and C language**
 <p align="left">
