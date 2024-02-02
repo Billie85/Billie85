@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angelinne</h1>
-<h3 align="center"> 🌱 I’m currently learning CS50 and C language
+<h3 align="center"> 🌱 I’m currently learning C language
 
 ![MasterHead](https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e478hz3hr52bqou3qgom7ddf35j3pgdiixknqaccre8&rid=giphy.gif&ct=g)
 
